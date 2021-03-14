@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedmineFramework", "Redmine\RedmineFramework.csproj", "{EF0AD995-A0AC-4D10-9C9F-BB4FEE88583C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedmineTestCases", "RedmineTestCases\RedmineTestCases.csproj", "{783979A2-2C02-4699-9998-AB31F75672EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0AD995-A0AC-4D10-9C9F-BB4FEE88583C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0AD995-A0AC-4D10-9C9F-BB4FEE88583C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0AD995-A0AC-4D10-9C9F-BB4FEE88583C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0AD995-A0AC-4D10-9C9F-BB4FEE88583C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783979A2-2C02-4699-9998-AB31F75672EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783979A2-2C02-4699-9998-AB31F75672EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783979A2-2C02-4699-9998-AB31F75672EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783979A2-2C02-4699-9998-AB31F75672EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73AB242B-A4AC-48DF-938C-5D847ABABFE4}
+	EndGlobalSection
+EndGlobal
